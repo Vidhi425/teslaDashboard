@@ -1,0 +1,14 @@
+-rootPath
+C:/Project/opencv/teslaDashboard 2/teslaDashboard
+-cmake-output
+-output-file
+C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake
+-importPath
+C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/teslaDashboard
+-importPath
+C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.0/mingw_64/qml
+-qrcFiles
+C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_teslaDashboard.qrc
+C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appteslaDashboard_raw_qml_0.qrc

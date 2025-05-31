@@ -1,0 +1,5 @@
+--resource
+C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qmake_teslaDashboard.qrc
+--resource
+C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/appteslaDashboard_raw_qml_0.qrc
+/qt/qml/teslaDashboard/Main.qml

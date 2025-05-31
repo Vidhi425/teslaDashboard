@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "system",
+            "lineNumber": 5,
+            "object": true,
+            "qualifiedClassName": "system",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "system.h",
+    "outputRevision": 69
+}
