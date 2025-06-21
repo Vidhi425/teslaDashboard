@@ -1,7 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/teslaDashboard/">
-    <file alias="Main.qml">C:/Project/opencv/teslaDashboard 2/teslaDashboard/Main.qml</file>
-    <file alias="res.qrc">C:/Project/opencv/teslaDashboard 2/teslaDashboard/res.qrc</file>
-  </qresource>
-</RCC>
-

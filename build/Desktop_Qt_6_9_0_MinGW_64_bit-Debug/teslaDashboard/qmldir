@@ -1,5 +1,0 @@
-module teslaDashboard
-typeinfo appteslaDashboard.qmltypes
-prefer :/qt/qml/teslaDashboard/
-Main 1.0 Main.qml
-

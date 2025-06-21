@@ -34,3 +34,4 @@ desktop.ini
 build/
 CMakeLists.txt.user
 CMakeLists.txt.user 
+build/ 
