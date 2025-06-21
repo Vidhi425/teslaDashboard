@@ -2,10 +2,49 @@
     {
         "classes": [
             {
-                "className": "system",
-                "lineNumber": 5,
+                "className": "HVAChandler",
+                "lineNumber": 6,
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "val",
+                                "type": "int"
+                            }
+                        ],
+                        "index": 1,
+                        "name": "incrementTargetTemperature",
+                        "returnType": "void"
+                    }
+                ],
                 "object": true,
-                "qualifiedClassName": "system",
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "targetTemperature",
+                        "notify": "targetTemperatureChanged",
+                        "read": "targetTemperature",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false,
+                        "write": "setTargetTemperature"
+                    }
+                ],
+                "qualifiedClassName": "HVAChandler",
+                "signals": [
+                    {
+                        "access": "public",
+                        "index": 0,
+                        "name": "targetTemperatureChanged",
+                        "returnType": "void"
+                    }
+                ],
                 "superClasses": [
                     {
                         "access": "public",
@@ -14,7 +53,7 @@
                 ]
             }
         ],
-        "inputFile": "system.h",
+        "inputFile": "hvachandler.h",
         "outputRevision": 69
     },
     {
@@ -129,24 +168,6 @@
             }
         ],
         "inputFile": "system2.h",
-        "outputRevision": 69
-    },
-    {
-        "classes": [
-            {
-                "className": "test2",
-                "lineNumber": 6,
-                "object": true,
-                "qualifiedClassName": "test2",
-                "superClasses": [
-                    {
-                        "access": "public",
-                        "name": "QObject"
-                    }
-                ]
-            }
-        ],
-        "inputFile": "test2.h",
         "outputRevision": 69
     }
 ]

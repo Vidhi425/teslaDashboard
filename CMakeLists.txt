@@ -22,11 +22,12 @@ qt_add_qml_module(appteslaDashboard
         Main.qml
     RESOURCES
         res.qrc
-        SOURCES Resources/system.h Resources/system.cpp
-        SOURCES Resources/system.h Resources/system.cpp
-        SOURCES Resources/test.h Resources/test.cpp
-        SOURCES Resources/test2.h Resources/test2.cpp
+        SOURCES
+        SOURCES
+        SOURCES
+        SOURCES
         SOURCES Resources/system2.h Resources/system2.cpp
+        SOURCES Resources/hvachandler.h Resources/hvachandler.cpp
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

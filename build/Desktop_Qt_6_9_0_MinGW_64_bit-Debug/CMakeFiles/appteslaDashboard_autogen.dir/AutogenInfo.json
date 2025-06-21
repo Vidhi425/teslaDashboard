@@ -1005,27 +1005,15 @@
 	"HEADERS" : 
 	[
 		[
-			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/system.h",
+			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/hvachandler.h",
 			"MU",
-			"S5YYZ2ZCNV/moc_system.cpp",
+			"S5YYZ2ZCNV/moc_hvachandler.cpp",
 			null
 		],
 		[
 			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/system2.h",
 			"MU",
 			"S5YYZ2ZCNV/moc_system2.cpp",
-			null
-		],
-		[
-			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/test.h",
-			"MU",
-			"S5YYZ2ZCNV/moc_test.cpp",
-			null
-		],
-		[
-			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/test2.h",
-			"MU",
-			"S5YYZ2ZCNV/moc_test2.cpp",
 			null
 		]
 	],
@@ -1147,22 +1135,12 @@
 	"SOURCES" : 
 	[
 		[
-			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/system.cpp",
+			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/hvachandler.cpp",
 			"MU",
 			null
 		],
 		[
 			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/system2.cpp",
-			"MU",
-			null
-		],
-		[
-			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/test.cpp",
-			"MU",
-			null
-		],
-		[
-			"C:/Project/opencv/teslaDashboard 2/teslaDashboard/Resources/test2.cpp",
 			"MU",
 			null
 		],

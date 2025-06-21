@@ -1,100 +1,126 @@
 # ninja log v6
-2077	2294	7703910122000816	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qrc_res.cpp	789fff5ee43915f2
-31	137	7704108267955135	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
-301	1576	7704108280871877	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
-31	137	7704108267955135	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
-106	254	7703910101745910	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_res.txt	142ff405b9ba2259
-2330	5552	7704108289980883	CMakeFiles/appteslaDashboard.dir/appteslaDashboard_autogen/mocs_compilation.cpp.obj	901f70b60c2813e6
-106	254	7703910101745910	.qt/appteslaDashboard_res.txt	142ff405b9ba2259
-301	1576	7704108280871877	appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
-54	301	7704108269585309	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
-1577	1681	7704108283421393	meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
-54	301	7704108269585309	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
-301	1576	7704108280871877	appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
-301	1576	7704108280871877	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
-914	1132	7702429062109546	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_qmlcache_loader.cpp	2b37f4c15a807aa7
-891	1062	7702429061420451	.qt/rcc/qrc_qmake_teslaDashboard.cpp	f98946302e7e09f3
-2091	2329	7704108289805650	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-891	1062	7702429061420451	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_teslaDashboard.cpp	f98946302e7e09f3
-2091	2329	7704108289805650	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-2077	2294	7703910122000816	qrc_res.cpp	789fff5ee43915f2
-1577	1681	7704108283421393	meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
-1681	1833	7704108284945797	meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
-1577	1681	7704108283421393	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
-1577	1681	7704108283421393	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
-1595	1702	7704108283471430	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
-1595	1702	7704108283471430	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
-2345	5811	7704108290131045	CMakeFiles/appteslaDashboard.dir/main.cpp.obj	8fcfcf78ebf9ed41
-914	1132	7702429062109546	.rcc/qmlcache/appteslaDashboard_qmlcache_loader.cpp	2b37f4c15a807aa7
-1681	1833	7704108284945797	meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
-1681	1833	7704108284945797	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
-1681	1833	7704108284945797	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
-1833	2090	7704108286513552	apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
-3639	7517	7703910135721470	CMakeFiles/appteslaDashboard.dir/Resources/system.cpp.obj	cfabc7e39739b2c8
-1833	2090	7704108286513552	teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
-1833	2090	7704108286513552	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
-1833	2090	7704108286513552	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
-2091	2329	7704108289805650	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-2392	6487	7704108290602143	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
-2091	2329	7704108289805650	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-1866	2195	7702429069665797	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_teslaDashboard.cpp.obj	f71c5d3f3fe4fa63
-2406	2576	7704108290751091	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
-3589	4861	7703910135220233	CMakeFiles/appteslaDashboard.dir/qrc_res.cpp.obj	5e3b2bef44e44e3f
-2359	5595	7704108290274750	CMakeFiles/appteslaDashboard.dir/apptesladashboard_qmltyperegistrations.cpp.obj	40f4cb6b6e6a0d8c
-1890	7273	7702429069909465	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_qmlcache_loader.cpp.obj	f0e81cddc0c24444
-3676	7411	7703910136091987	CMakeFiles/appteslaDashboard.dir/Resources/test2.cpp.obj	ae6e3f279a3404e0
-3661	4844	7703910135936238	CMakeFiles/appteslaDashboard.dir/Resources/test.cpp.obj	51d89f01d939158c
-3399	4011	7704106649771855	appteslaDashboard.exe	9d6b24d164264f1e
-2374	5449	7704108290424049	CMakeFiles/appteslaDashboard.dir/Resources/system2.cpp.obj	6d6db33459f3c5c4
-52	1658	7704108985329344	appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
-52	1658	7704108985329344	appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
-52	1658	7704108985329344	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
-52	1658	7704108985329344	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
-1660	1771	7704108988502273	meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
-1660	1771	7704108988502273	meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
-1660	1771	7704108988502273	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
-1660	1771	7704108988502273	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
-1772	1923	7704108989999998	meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
-1772	1923	7704108989999998	meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
-1772	1923	7704108989999998	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
-1772	1923	7704108989999998	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
-1923	2238	7704108991942144	apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
-1923	2238	7704108991942144	teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
-1923	2238	7704108991942144	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
-1923	2238	7704108991942144	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
-2238	2522	7704108995900190	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-2238	2522	7704108995900190	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-2238	2522	7704108995900190	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-2238	2522	7704108995900190	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-2563	5661	7704108996500542	CMakeFiles/appteslaDashboard.dir/Resources/system2.cpp.obj	6d6db33459f3c5c4
-2549	5796	7704108996365926	CMakeFiles/appteslaDashboard.dir/apptesladashboard_qmltyperegistrations.cpp.obj	40f4cb6b6e6a0d8c
-2523	5810	7704108996107011	CMakeFiles/appteslaDashboard.dir/appteslaDashboard_autogen/mocs_compilation.cpp.obj	901f70b60c2813e6
-2537	5950	7704108996247434	CMakeFiles/appteslaDashboard.dir/main.cpp.obj	8fcfcf78ebf9ed41
-2581	6671	7704108996684764	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
-6672	7337	7704109037588137	appteslaDashboard.exe	9d6b24d164264f1e
-31	150	7704111062920209	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
-31	150	7704111062920209	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
-57	334	7704111064690335	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
-57	334	7704111064690335	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
-356	467	7704111066055088	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
-356	467	7704111066055088	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
-335	581	7704111067124546	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-335	581	7704111067124546	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-335	581	7704111067124546	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-335	581	7704111067124546	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-597	759	7704111067464366	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
-581	3467	7704111067306393	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
-3467	4138	7704111096168925	appteslaDashboard.exe	9d6b24d164264f1e
-25	143	7704111376164218	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
-25	143	7704111376164218	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
-49	295	7704111377669989	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
-49	295	7704111377669989	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
-314	424	7704111378983089	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
-314	424	7704111378983089	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
-295	555	7704111380202542	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-295	555	7704111380202542	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-295	555	7704111380202542	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
-295	555	7704111380202542	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
-570	715	7704111380516300	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
-555	3387	7704111380367671	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
-3387	4018	7704111408689366	appteslaDashboard.exe	9d6b24d164264f1e
+843	976	7704957193633195	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/qrc_res.cpp	789fff5ee43915f2
+26	146	7704960847026133	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+513	824	7704957189081925	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
+26	146	7704960847026133	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+51	168	7704957185570913	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_res.txt	142ff405b9ba2259
+2750	6043	7704950153543672	CMakeFiles/appteslaDashboard.dir/appteslaDashboard_autogen/mocs_compilation.cpp.obj	901f70b60c2813e6
+51	168	7704957185570913	.qt/appteslaDashboard_res.txt	142ff405b9ba2259
+513	824	7704957189081925	appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
+51	491	7704960850441319	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+825	933	7704957193207988	meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
+51	491	7704960850441319	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+513	824	7704957189081925	appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
+513	824	7704957189081925	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
+3320	3570	7704838442130742	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_qmlcache_loader.cpp	2b37f4c15a807aa7
+3292	3498	7704838441254872	.qt/rcc/qrc_qmake_teslaDashboard.cpp	f98946302e7e09f3
+492	768	7704960853141172	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+3292	3498	7704838441254872	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_teslaDashboard.cpp	f98946302e7e09f3
+492	768	7704960853141172	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+843	976	7704957193633195	qrc_res.cpp	789fff5ee43915f2
+825	933	7704957193207988	meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
+933	1047	7704957193287987	meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
+825	933	7704957193207988	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
+825	933	7704957193207988	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
+511	611	7704960851658014	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+511	611	7704960851658014	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+2766	6131	7704950153698975	CMakeFiles/appteslaDashboard.dir/main.cpp.obj	8fcfcf78ebf9ed41
+3320	3570	7704838442130742	.rcc/qmlcache/appteslaDashboard_qmlcache_loader.cpp	2b37f4c15a807aa7
+933	1047	7704957193287987	meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
+933	1047	7704957193287987	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
+933	1047	7704957193287987	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
+2170	2439	7704950149167860	apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
+4604	10243	7704838452675786	CMakeFiles/appteslaDashboard.dir/Resources/system.cpp.obj	cfabc7e39739b2c8
+2170	2439	7704950149167860	teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
+2170	2439	7704950149167860	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
+2170	2439	7704950149167860	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
+492	768	7704960853141172	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+769	4231	7704960853331203	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
+492	768	7704960853141172	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+4583	5141	7704838452475394	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_qmake_teslaDashboard.cpp.obj	f71c5d3f3fe4fa63
+788	937	7704960853515783	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
+1298	1569	7704957196935799	CMakeFiles/appteslaDashboard.dir/qrc_res.cpp.obj	5e3b2bef44e44e3f
+2791	5933	7704950153956208	CMakeFiles/appteslaDashboard.dir/apptesladashboard_qmltyperegistrations.cpp.obj	40f4cb6b6e6a0d8c
+4673	13601	7704838453365686	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_qmlcache_loader.cpp.obj	f0e81cddc0c24444
+4639	10126	7704838453029308	CMakeFiles/appteslaDashboard.dir/Resources/test2.cpp.obj	ae6e3f279a3404e0
+4621	5112	7704838452845181	CMakeFiles/appteslaDashboard.dir/Resources/test.cpp.obj	51d89f01d939158c
+4231	5188	7704960887949205	appteslaDashboard.exe	3fa25c0f325a6029
+4658	11103	7704838453212091	CMakeFiles/appteslaDashboard.dir/Resources/system2.cpp.obj	6d6db33459f3c5c4
+115	5031	7705425351058514	build.ninja	bf151aa520461cfe
+2810	5252	7704950154142891	CMakeFiles/appteslaDashboard.dir/Resources/hvachandler.cpp.obj	af969ad01dd6fa06
+152	404	7707247966184949	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+152	404	7707247966184949	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+214	1259	7707247974858251	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+214	1259	7707247974858251	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+1260	1734	7707247977562718	appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
+1260	1734	7707247977562718	appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
+1260	1734	7707247977562718	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/timestamp	aaf3cf64dd17b7ee
+1260	1734	7707247977562718	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/appteslaDashboard_autogen/mocs_compilation.cpp	aaf3cf64dd17b7ee
+1766	1929	7707247981706947	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+1766	1929	7707247981706947	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+1736	1958	7707247982016538	meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
+1736	1958	7707247982016538	meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
+1736	1958	7707247982016538	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt	69fd8f796a411602
+1736	1958	7707247982016538	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/appteslaDashboard_json_file_list.txt.timestamp	69fd8f796a411602
+1958	2221	7707247984658674	meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
+1958	2221	7707247984658674	meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
+1958	2221	7707247984658674	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json.gen	40c7a192f999dbf0
+1958	2221	7707247984658674	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/meta_types/qt6apptesladashboard_debug_metatypes.json	40c7a192f999dbf0
+2222	2757	7707247988640116	apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
+2222	2757	7707247988640116	teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
+2222	2757	7707247988640116	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/apptesladashboard_qmltyperegistrations.cpp	5644d1aea09ea5ff
+2222	2757	7707247988640116	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/teslaDashboard/appteslaDashboard.qmltypes	5644d1aea09ea5ff
+2758	3142	7707247993728731	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+2758	3142	7707247993728731	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+2758	3142	7707247993728731	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+2758	3142	7707247993728731	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+3241	4352	7707247994957707	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
+3209	7797	7707247994633489	CMakeFiles/appteslaDashboard.dir/apptesladashboard_qmltyperegistrations.cpp.obj	40f4cb6b6e6a0d8c
+3143	7823	7707247993977109	CMakeFiles/appteslaDashboard.dir/appteslaDashboard_autogen/mocs_compilation.cpp.obj	901f70b60c2813e6
+3224	10000	7707247994775972	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
+10000	11866	7707248062553624	appteslaDashboard.exe	8019b532b0b75a0a
+57	206	7707249314848416	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+57	206	7707249314848416	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+84	791	7707249320663597	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+84	791	7707249320663597	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+815	947	7707249322236744	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+815	947	7707249322236744	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+40	182	7707250033903281	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+40	182	7707250033903281	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+65	705	7707250039096005	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+65	705	7707250039096005	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+725	843	7707250040503890	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+725	843	7707250040503890	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+706	1047	7707250042426549	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+706	1047	7707250042426549	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+706	1047	7707250042426549	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+706	1047	7707250042426549	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+1064	1249	7707250042838375	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
+1047	6255	7707250042667711	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
+6255	7435	7707250094745960	appteslaDashboard.exe	8019b532b0b75a0a
+45	183	7707250257870838	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+45	183	7707250257870838	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+71	672	7707250262750633	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+71	672	7707250262750633	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+693	821	7707250264215084	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+693	821	7707250264215084	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+672	1023	7707250266134196	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+672	1023	7707250266134196	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+672	1023	7707250266134196	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+672	1023	7707250266134196	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+1038	1215	7707250266545573	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
+1023	6312	7707250266405423	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
+6312	7585	7707250319281339	appteslaDashboard.exe	8019b532b0b75a0a
+145	356	7709325585182225	.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+145	356	7709325585182225	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/appteslaDashboard_qml.txt	edc8334facf2a7f0
+173	1176	7709325593314967	.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+173	1176	7709325593314967	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/qml_imports/appteslaDashboard_build.cmake	f3100fd2cfd69ce1
+1204	1384	7709325595408745	.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+1204	1384	7709325595408745	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp	437481ce8fa3779e
+1177	1734	7709325598731263	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+1177	1734	7709325598731263	.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+1177	1734	7709325598731263	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp	f985cd010b937b7c
+1177	1734	7709325598731263	C:/Project/opencv/teslaDashboard 2/teslaDashboard/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.aotstats	f985cd010b937b7c
+1753	2033	7709325599261866	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.qt/rcc/qrc_appteslaDashboard_raw_qml_0.cpp.obj	b95f73c6647c66f3
+1735	8918	7709325599073319	CMakeFiles/appteslaDashboard.dir/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/.rcc/qmlcache/appteslaDashboard_Main_qml.cpp.obj	c314d42618783f41
+8918	10446	7709325670905349	appteslaDashboard.exe	8019b532b0b75a0a
